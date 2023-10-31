@@ -4,3 +4,9 @@ Materiale creato/utilizzato durante il corso Fondamenti di Programmazione (Modul
 To-do:
 - caricare i progetti
 - caricare le librerie 
+
+### elettronica
+Materiale creato dalla rielaborazione delle slides fornite dalla Prof. Flammini Alessandra.
+
+To-do:
+- caricare le cartelle obsidian
