@@ -22,10 +22,6 @@ Per il solo materiale di Analisi 2 c'è anche questo [progetto](https://github.c
 BOZZA, VERSIONE DEL FILE NON FINALE
 Documento scritto per la preparazione all'esame teorico del corso Fisica Sperimentale (Mecc., Onde, Termodin.) del primo anno del corso di studi di Ingegneria Informatica, UniBS, tenuto dal prof. Venturelli Luca.
 
-### fisica 2
-BOZZA, VERSIONE DEL FILE NON FINALE
-Documento scritto per la preparazione all'esame teorico del corso Fisica 2 (elettromagn., ottica). Dalle lezioni di teoria del Prof. Venturelli Luca
-
 ### fondamenti-java (21/22)
 Materiale creato/utilizzato durante il corso Fondamenti di Programmazione (Modulo II, java) del primo anno del corso di studi di Ingegneria Informatica, UniBS
 
@@ -35,6 +31,13 @@ Materiale caricato:
 To-do:
 - caricare i progetti
 - caricare le librerie 
+
+### economia applicata all'ingegneria
+Documento scritto per la preparazione all'esame del corso Economia applicata all'Ingegneria dalle lezioni e slide del Prof. Gallico Guido
+
+### fisica 2
+BOZZA, VERSIONE DEL FILE NON FINALE
+Documento scritto per la preparazione all'esame teorico del corso Fisica 2 (elettromagn., ottica). Dalle lezioni di teoria del Prof. Venturelli Luca
 
 ### circuiti elettrici per l'elettronica (22/23)
 Materiale di "riassunto" delle slide del prof. Locatelli Andrea integrato con parti del libro Circuiti Elettrici di Perfetti.
