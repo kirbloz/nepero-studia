@@ -1,6 +1,17 @@
 # nepero - studia
 qui condivido un po' del materiale che mi è risultato utile durante lo studio :)
 
+## DISCLAIMER
+Nessun file presente in questo repository è stato revisionato da alcun docente della materia, non c'è niente di ufficiale.
+Non mi assumo la responsabilità di affermare in alcun modo che questo materiale sia sufficiente allo studio per il superamento con qualsiasi votazione finale delle prove di profitto.
+Buono studio.
+
+---
+## LEGENDA
+Con "megafile" intendo un documento di testo che contiene domande e risposte, un po' un bruteforce dei quesiti d'esame.
+Con "cartella di Obsidian" intendo le cartelle create e gestite con il software gratuito [Obsidian](https://obsidian.md/). Non ho testato ma credo sia sufficiente un qualsiasi editor di markdown per visualizzare/modificare i vari file.
+
+## MATERIALE
 ### fondamenti-java (21/22)
 Materiale creato/utilizzato durante il corso Fondamenti di Programmazione (Modulo II, java) del primo anno del corso di studi di Ingegneria Informatica, UniBS
 
