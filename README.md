@@ -11,7 +11,7 @@ To-do:
 - caricare i progetti
 - caricare le librerie 
 
-### circuiti elettrici per l'elettronica
+### circuiti elettrici per l'elettronica (22/23)
 Materiale di "riassunto" delle slide del prof. Locatelli Andrea integrato con parti del libro Circuiti Elettrici di Perfetti.
 
 Materiale caricato:
