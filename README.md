@@ -15,6 +15,7 @@ Con "cartella di Obsidian" intendo le cartelle create e gestite con il software 
 
 ### ALGEBRA - ANALISI 1 - ANALISI 2
 Propongo questa [repository](https://github.com/ildivan/ingegneria-informatica/tree/main) di Ivan Abrami, iscritto a questo stesso corso di studi.
+
 Per il solo materiale di Analisi 2 c'è anche questo [progetto](https://github.com/ceres-c/unibs-analisi2) LaTeX.
 
 ### fisica 1
