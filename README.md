@@ -17,6 +17,10 @@ Con "cartella di Obsidian" intendo le cartelle create e gestite con il software 
 Propongo questa [repository](https://github.com/ildivan/ingegneria-informatica/tree/main) di un altro ragazzo iscritto a questo corso di studi.
 Per il solo materiale di Analisi 2 c'è anche questo [progetto](https://github.com/ceres-c/unibs-analisi2) LaTeX.
 
+### fisica 1
+BOZZA, VERSIONE DEL FILE NON FINALE
+Documento scritto per la preparazione all'esame teorico del corso Fisica Sperimentale (Mecc., Onde, Termodin.) del primo anno del corso di studi di Ingegneria Informatica, UniBS, tenuto dal prof. Venturelli Luca.
+
 ### fondamenti-java (21/22)
 Materiale creato/utilizzato durante il corso Fondamenti di Programmazione (Modulo II, java) del primo anno del corso di studi di Ingegneria Informatica, UniBS
 
