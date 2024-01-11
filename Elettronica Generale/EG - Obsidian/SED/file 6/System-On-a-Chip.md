@@ -1,0 +1,1 @@
+Nell'elettronica digitale un SoC è un circuito integrato che in un solo chip contiene un intero sistema, o meglio oltre al processore centrale integra anche un chipset ed eventualmente altri controller come quello per la memoria RAM, la circuiteria IO o il sotto sistema video.

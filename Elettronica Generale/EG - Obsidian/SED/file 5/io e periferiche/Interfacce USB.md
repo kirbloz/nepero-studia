@@ -1,0 +1,2 @@
+*Interfacce USB*: il microcontrollore è normalmente un device e il sistema embedded può essere connesso ad un PC come periferica di quest'ultimo.
+   >Sono delle belle interfacce! Ottima DC, ottima alimentazione.
