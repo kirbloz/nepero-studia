@@ -1,49 +1,48 @@
 # nepero - studia
 qui condivido un po' del materiale che mi è risultato utile durante lo studio :)
 
-## DISCLAIMER
-Nessun file presente in questo repository è stato revisionato da alcun docente della materia, non c'è niente di ufficiale.
-Non mi assumo la responsabilità di affermare in alcun modo che questo materiale sia sufficiente allo studio per il superamento con qualsiasi votazione finale delle prove di profitto.
+### DISCLAIMER
+Nessun file presente in questo repository è stato revisionato da alcun docente della materia, non c'è niente di ufficiale. Sono accette pull request per migliorare i contenuti in qualsiasi momento.
+<br><br>
+Non mi assumo la responsabilità di affermare in alcun modo che questo materiale sia sufficiente allo studio per il superamento con qualsiasi votazione finale delle prove di profitto.<br>
 Buono studio.
 
----
-## LEGENDA
-Con "megafile" intendo un documento di testo che contiene domande e risposte, un po' un bruteforce dei quesiti d'esame.
-Con "cartella di Obsidian" intendo le cartelle create e gestite con il software gratuito [Obsidian](https://obsidian.md/). Non ho testato ma credo sia sufficiente un qualsiasi editor di markdown per visualizzare/modificare i vari file.
+<br>
 
 ## MATERIALE
 
-### ALGEBRA - ANALISI 1 - ANALISI 2
-Propongo questa [repository](https://github.com/ildivan/ingegneria-informatica/tree/main) di Ivan Abrami, iscritto a questo stesso corso di studi.
+### LEGENDA
+Con "megafile" intendo un documento di testo che contiene domande e risposte, un po' un bruteforce dei quesiti d'esame.<br>
+Con "cartella di Obsidian" intendo le cartelle create e gestite con il software gratuito [Obsidian](https://obsidian.md/). Non ho testato ma credo sia sufficiente un qualsiasi editor di markdown per visualizzare/modificare i vari file.
 
+### algebra - analisi 1 - analisi 2
+Propongo la [repository](https://github.com/ildivan/ingegneria-informatica/tree/main) di Ivan Abrami, iscritto a questo stesso corso di studi.<br>
 Per il solo materiale di Analisi 2 c'è anche questo [progetto](https://github.com/ceres-c/unibs-analisi2) LaTeX.
 
 ### fisica 1
-BOZZA, VERSIONE DEL FILE NON FINALE
-Documento scritto per la preparazione all'esame teorico del corso Fisica Sperimentale (Mecc., Onde, Termodin.) del primo anno del corso di studi di Ingegneria Informatica, UniBS, tenuto dal prof. Venturelli Luca.
+BOZZA, VERSIONE DEL FILE NON FINALE<br>
+Materiale prodotto durante la preparazione del corso Fisica Sperimentale (Mecc., Onde, Termodin.) del primo anno del corso di studi di Ingegneria Informatica, UniBS, tenuto dal prof. Venturelli Luca.
+- <code>FISICA 1.pdf</code> documento scritto in vista della prova orale
 
 ### fondamenti-java (21/22)
-Materiale creato/utilizzato durante il corso Fondamenti di Programmazione (Modulo II, java) del primo anno del corso di studi di Ingegneria Informatica, UniBS
-
-Materiale caricato:
-- nulla
+<p>Materiale creato/utilizzato durante il corso Fondamenti di Programmazione (Modulo II, java) del primo anno del corso di studi di Ingegneria Informatica, UniBS</p>
 
 To-do:
 - caricare i progetti
 - caricare le librerie 
 
 ### economia applicata all'ingegneria
-Documento scritto per la preparazione all'esame del corso Economia applicata all'Ingegneria dalle lezioni e slide del Prof. Gallico Guido
+Materiale prodotto durante la preparazione all'esame del corso Economia applicata all'Ingegneria dalle lezioni e slide del Prof. Gallico Guido
+- <code>Economia Applicata All'ingegneria NON riassunto.pdf</code> file di teoria
+- <code>schemi lezioni.zip</code> cartella compressa contenente schemi di ogni lezione 
 
 ### fisica 2
-BOZZA, VERSIONE DEL FILE NON FINALE
-Documento scritto per la preparazione all'esame teorico del corso Fisica 2 (elettromagn., ottica). Dalle lezioni di teoria del Prof. Venturelli Luca
+BOZZA, VERSIONE DEL FILE NON FINALE<br>
+Materiale prodotto durante la preparazione all'esame teorico del corso Fisica 2 (elettromagn., ottica). Dalle lezioni di teoria del Prof. Venturelli Luca
+- <code>FISICA 2 (elettromagn., ottica).pdf</code> documento scritto in vista della prova orale
 
 ### circuiti elettrici per l'elettronica (22/23)
 Materiale di "riassunto" delle slide del prof. Locatelli Andrea integrato con parti del libro Circuiti Elettrici di Perfetti.
-
-Materiale caricato:
-- nulla
 
 To-do:
 - caricare megafile teoria
@@ -51,10 +50,10 @@ To-do:
 
 
 ### elettronica generale (23/24)
-Materiale creato dalla rielaborazione delle slides fornite dalla Prof. Flammini Alessandra.
-
-Materiale caricato:
-- megafile di fe e sed
-
+Materiale creato dalla rielaborazione delle slides fornite dalla Prof.ssa Flammini Alessandra.
+- <code>MEGAFILE - FE.pdf</code> megafile per il modulo di Fondamenti di Elettronica
+- <code>MEGAFILE - SED.pdf</code> megafile per il modulo di Sistemi di Elettronica Digitale
+- <code>EG - sigillato il 22-12-23..zip</code> cartella compressa contenente le directory Obsidian create durante la rielaborazione delle slide della Prof.ssa e gli appunti presi a lezione
+  
 To-do:
 - caricare le cartelle obsidian
