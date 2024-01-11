@@ -54,6 +54,4 @@ Materiale creato dalla rielaborazione delle slides fornite dalla Prof.ssa Flammi
 - <code>MEGAFILE - FE.pdf</code> megafile per il modulo di Fondamenti di Elettronica
 - <code>MEGAFILE - SED.pdf</code> megafile per il modulo di Sistemi di Elettronica Digitale
 - <code>EG - sigillato il 22-12-23..zip</code> cartella compressa contenente le directory Obsidian create durante la rielaborazione delle slide della Prof.ssa e gli appunti presi a lezione
-  
-To-do:
-- caricare le cartelle obsidian
+- <code>EG - Obsidian</code> directory principale di Obsidian decompressa
