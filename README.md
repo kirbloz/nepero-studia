@@ -42,11 +42,11 @@ Materiale prodotto durante la preparazione all'esame teorico del corso Fisica 2 
 - <code>FISICA 2 (elettromagn., ottica).pdf</code> documento scritto in vista della prova orale
 
 ### circuiti elettrici per l'elettronica (22/23)
-Materiale di "riassunto" delle slide del prof. Locatelli Andrea integrato con parti del libro Circuiti Elettrici di Perfetti.
+Materiale di "riassunto" delle slide del prof. Locatelli Andrea integrato con parti del libro Circuiti Elettrici di Perfetti. Incompleto in diversi punti.
+- <code>CEE - Obsidian</code> directory principale di Obsidian decompressa
 
 To-do:
 - caricare megafile teoria
-- caricare cartelle di obsidian
 
 
 ### elettronica generale (23/24)
@@ -55,3 +55,5 @@ Materiale creato dalla rielaborazione delle slides fornite dalla Prof.ssa Flammi
 - <code>MEGAFILE - SED.pdf</code> megafile per il modulo di Sistemi di Elettronica Digitale
 - <code>EG - sigillato il 22-12-23..zip</code> cartella compressa contenente le directory Obsidian create durante la rielaborazione delle slide della Prof.ssa e gli appunti presi a lezione
 - <code>EG - Obsidian</code> directory principale di Obsidian decompressa
+
+
