@@ -1,0 +1,1 @@
+Un circuito è detto **connesso** se esiste almeno un cammino nel circuito stesso che conentte qualunque coppia di nodi.
