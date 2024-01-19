@@ -42,8 +42,9 @@ Materiale prodotto durante la preparazione all'esame teorico del corso Fisica 2 
 - <code>FISICA 2 (elettromagn., ottica).pdf</code> documento scritto in vista della prova orale
 
 ### circuiti elettrici per l'elettronica (22/23)
-Materiale di "riassunto" delle slide del prof. Locatelli Andrea integrato con parti del libro Circuiti Elettrici di Perfetti. Incompleto in diversi punti.
-- <code>CEE - Obsidian</code> directory principale di Obsidian decompressa
+Materiale di "riassunto" delle slide del prof. Locatelli Andrea integrato con parti del libro Circuiti Elettrici di Perfetti. Non ho caricato temi d'esame perchè il docente li pubblica da sé.
+- <code>CEE - Obsidian</code> directory principale di Obsidian decompressa. Materiale incompleto in diversi punti.
+- <code>Appunti - prima parte.pdf</code> rielaborazione degli appunti presi a lezione con integrazioni dalle slide del docente. Arrivano fino alla fine del secondo pacco di slide, quindi la prima parte del corso, prima di iniziare i circuiti in AC.
 
 To-do:
 - caricare megafile teoria
