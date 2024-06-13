@@ -49,6 +49,13 @@ Materiale di "riassunto" delle slide del prof. Locatelli Andrea integrato con pa
 To-do:
 - caricare megafile teoria
 
+### ricerca operativa (22/23)
+Materiale rielaborato slide e gli appunti dalle lezioni della prof.ssa Mansini Renata.
+- <code>RO - Obsidian</code> directory principale di Obsidian decompressa. Non ricordo se è completo o meno. Non credo.
+- <code>Appunti Ricerca Operativa.pdf</code> i miei appunti dalle lezioni + slide.
+- <code>Appunti ESE.pdf</code> appunti dalle esercitazioni o svolgimenti di esercizi trovati in giro. 
+- <code>Megafile Teoria RO.odt</code> raccolta di domande e a volte risposte raccattate da temi d'esame o sorte durante lo studio. Non garantisco la correttezza delle risposte.
+- <code>ricerca operativa domande teoria.pdf</code> questo è un file che gira da qualche tempo. Non mio. Alcune risposte non sono corrette/precise.
 
 ### elettronica generale (23/24)
 Materiale creato dalla rielaborazione delle slides fornite dalla Prof.ssa Flammini Alessandra.

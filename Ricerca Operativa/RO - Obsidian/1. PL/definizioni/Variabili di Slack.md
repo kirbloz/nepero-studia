@@ -1,0 +1,1 @@
+Sono variabili che vengono introdotte artificialmente nel problema per poter trasformare i [[Vincoli|vincoli]] da semipiani a rette $\Rightarrow$ trasformo il problema in forma standard, con vincoli di uguaglianza e uno scatafascio di variabili.
