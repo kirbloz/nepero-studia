@@ -73,4 +73,8 @@ Materiale creato dalla rielaborazione delle slides fornite dalla Prof.ssa Flammi
 - <code>EG - sigillato il 22-12-23..zip</code> cartella compressa contenente le directory Obsidian create durante la rielaborazione delle slide della Prof.ssa e gli appunti presi a lezione
 - <code>EG - Obsidian</code> directory principale di Obsidian decompressa
 
-
+### impianti informatici (23/24)
+Materiale prodotto dalla rielaborazione delle slide e degli appunti dal corso del prof. Baroni Pietro.
+- <code>MEGAFILE IMPIANTI.docx</code> megafile per gli argomenti di teoria. Molto completo, probabilmente troppo.
+- <code>RACCOLTA DOMANDE IMPIANTI.docx</code> raccolta di quesiti/risposte, presi da vari temi d'esame, prodotti in compagnia ad alcuni compagni di corso. Niente di serio. 
+- <code>Mappa Impianti.canvas</code> file creato con il plugin Canvas su Obsidian. L'unica cosa che ho lasciato incompleta è la parte finale sull'autenticazione e roba successiva.
