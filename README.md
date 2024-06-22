@@ -49,6 +49,15 @@ Materiale di "riassunto" delle slide del prof. Locatelli Andrea integrato con pa
 To-do:
 - caricare megafile teoria
 
+### fondamenti di automatica (22/23)
+Materiale prodotto durante lo studio della materia, a partire dal libro consigliato dal docente Marco Claudio Campi, Fondamenti di Controlli Automatici, e dalle registrazioni delle sue lezioni.
+- <code>schemi_automatica_incompleti.pdf</code> alcune scansioni di fogli con un'accozzaglia di concetti di teoria e qualche schema per la comprensione di esercizi.
+- <code>schemi_ese_automatica.pdf</code> alcune scansioni da schemi prodotti durante la risoluzione di esercizi e temi d'esame
+
+To-do:
+- caricare tde svolti
+- caricare la cartella obsidian 
+
 ### ricerca operativa (22/23)
 Materiale rielaborato slide e gli appunti dalle lezioni della prof.ssa Mansini Renata.
 - <code>RO - Obsidian</code> directory principale di Obsidian decompressa. Non ricordo se è completo o meno. Non credo.
